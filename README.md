@@ -1,1 +1,1 @@
-# GitHub-Actions-CI-CD-Setup
+# GitHub-CI-CD-Setup
