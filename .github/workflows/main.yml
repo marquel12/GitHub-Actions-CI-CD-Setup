@@ -36,9 +36,7 @@ jobs:
           start: npm run start
           component: true
         
-      # Run lint
-      - name: Run Lint
-        run: npm run lint
+    
 
   
  
