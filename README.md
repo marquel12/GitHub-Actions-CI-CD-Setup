@@ -23,8 +23,12 @@ The purpose of this project was to create a CI/CD pipeline using GitHub Actions 
 
 
   ## Usage
-  
+  Test complete:
  ![Test complete](image.png)
+ 
+ Deploy complete:
+ ![image](https://github.com/user-attachments/assets/4386348d-352f-47f8-af7d-4b3e8a64c867)
+
   
   CHeck out my deploy link here [CI/CD](https://github-ci-cd-xpti.onrender.com)
   
